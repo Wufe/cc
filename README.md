@@ -1,6 +1,6 @@
 # CC
 
-Color convert from xy to rgb and viceversa
+Convert colors from xy to rgb and viceversa
 
 ***
 
